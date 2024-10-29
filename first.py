@@ -1,1 +1,1 @@
-print(" this is to check gen is working or not")
+print(" this is to check gen is working or not ")
